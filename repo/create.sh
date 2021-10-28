@@ -5,7 +5,7 @@ clear
 USERNAME=$(cat ../.username)
 ORGANISATION=$(cat ../.organisation)
 PASSWORD=$(cat ../.password)
-TOKEN=$(cat ../.token)
+TOKEN=$(cat ../.token) # Enter your GitHub Authentication Token.  Set this up at: https://github.com/settings/tokens
 PRIVATE=$(cat ../.token)
 ## Create
 
