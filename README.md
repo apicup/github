@@ -3,10 +3,32 @@
 
 solution for github api and bash command
 
-to create one by one
-or many repositories
-users
-organisations at one time
+## Create a Repository
+
+- Create repository on Github
+- Copy the address of you repository
+
+search gitbash & open
+
+        Run cd ~
+        Run Desktop/
+
+        Run git clone (place your address repository)
+
+        Run cd (name of your repository)
+
+        Past your project which you want to upload in the testing folder on dekstop
+
+        Run (git status)
+        Run (git add . )
+
+        Run (git commit -m "write something")
+        Run (git push origin master)
+
+
+## create many repositories at one time
+
+from the file: repos.tx
 
 
 ## Introduction
