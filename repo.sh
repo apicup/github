@@ -9,4 +9,5 @@ ls sh repo/$COMMAND.sh
 ## EXECUTE COMMAND
 sh repo/$COMMAND.sh $REPONAME
 # example:
-sh repo.sh read apicup
+#sh repo.sh read apicup
+#sh repo.sh create test
