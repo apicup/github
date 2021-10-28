@@ -64,7 +64,7 @@ After go in the directory of the script and run the following command.
 After that, you will need to change certain value in the 
     
 ```bash
-sh repo.sh create test
+sh repo-user.sh create test
 ```
 
 `./repo/create.sh test`
