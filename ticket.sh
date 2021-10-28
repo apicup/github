@@ -1,6 +1,6 @@
 #!/bin/bash
-echo "all status"
-#example: sh ticket all
-echo "filter create delete update"
-#example: sh ticket create some_name
-#example: sh ticket filter api*
+echo "params: all filter create delete update"
+#example:
+# sh ticket_create.sh "topic" "description"
+# sh ticket create "some_name"
+# sh ticket filter "api*"
