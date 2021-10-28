@@ -3,6 +3,10 @@
 
 solution for github api and bash command
 
+## get token
+use in browser
+https://github.com/settings/tokens/new?description=IntelliJ%20APICUP%20GitHub%20integration&scopes=repo%2Cgist%2Cread%3Aorg%2Cworkflow
+
 ## Create a Repository
 
 - Create repository on Github
