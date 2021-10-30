@@ -9,5 +9,5 @@ ls sh repo-org/$COMMAND.sh
 ## EXECUTE COMMAND
 sh repo-org/$COMMAND.sh $REPONAME
 # example:
-#sh repo-user.sh read apicup
-#sh repo-user.sh create test
+#sh repo.sh-user.sh read apicup
+#sh repo.sh-user.sh create test

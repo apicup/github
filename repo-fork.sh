@@ -5,9 +5,9 @@ REPONAME=$2
 #REPOHTTP=$!
 ## Read data
 ## ! CHECK IF COMMAND NOT EXIST
-ls sh repo-org/$COMMAND.sh
+ls sh repo-user/$COMMAND.sh
 ## EXECUTE COMMAND
-sh repo-org/$COMMAND.sh $REPONAME
+sh repo-user/$COMMAND.sh $REPONAME
 # example:
-#sh repo read apicup
-#sh repo create test
+#sh repo.sh-user.sh read apicup
+#sh repo.sh-user.sh create test
